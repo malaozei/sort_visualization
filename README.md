@@ -10,3 +10,4 @@ Nine sort algorithms visualization.八种排序可视化算法
 ![image](https://github.com/malaozei/sort_visualization/assets/94264539/02eb593c-4770-4898-84e7-c0080597fe52)
 # 使用方法：
 直接运行exe文件
+想自己运行这个cpp文件，需要在vs2022中配置opencv4.5.5，然后才能成功运行。
