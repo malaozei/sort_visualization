@@ -1,5 +1,16 @@
 # sort_visualization
 Nine sort algorithms visualization.八种排序可视化算法
+
+由厦门大学本科生马承乾、李聪、金为轩、李亚轩合作完成
+
+马承乾：设计框架、设计冒泡排序、归并排序、快速排序、基数排序
+
+李聪：设计插入排序、堆排序、修改快速排序
+
+金为轩：设计演示视频、演示PPT
+
+李亚轩：设计希尔排序、选择排序
+
 # 效果如下：
 ![image](https://github.com/malaozei/sort_visualization/assets/94264539/a8dd052f-8602-4ea4-89dd-8dc026ad12b8)
 # 包含八大排序：
